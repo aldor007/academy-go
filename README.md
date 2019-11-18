@@ -12,4 +12,3 @@ Code examples:
 Presentation: [click](resources/GoLangIntroduction.pdf)
 
 
-<img src="https://github.com/aldor007/academy-go/blob/master/resources/gopher.png" width="500px"/>
