@@ -1,4 +1,4 @@
-# DreamLab Academy Go
+# Go Academy
 
 Repository contains materials from DreamLab Go Academy.
 
@@ -12,4 +12,4 @@ Code examples:
 Presentation: [click](resources/GoLangIntroduction.pdf)
 
 
-<img src="https://github.com/DreamLab/dl-academy-go/blob/master/resources/gopher.png" width="500px"/>
+<img src="https://github.com/aldor007/academy-go/blob/master/resources/gopher.png" width="500px"/>
