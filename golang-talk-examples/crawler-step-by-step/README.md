@@ -118,4 +118,20 @@ Content-Length: 459
 {"http://ocdn.eu/pulscms-transforms/1/Wc0ktkqTURBXy9lMGM4NjA4NzUxZmJhNWZiYWFkYzI5OTY0NTFmOGVlNC5qcGVnkpUDWQDNFlTNDuOTBV87 ":"Failed to fetch due to status code https://ocdn.eu/pulscms-transforms/1/Wc0ktkqTURBXy9lMGM4NjA4NzUxZmJhNWZiYWFkYzI5OTY0NTFmOGVlNC5qcGVnkpUDWQDNFlTNDuOTBV87%20 400","https://www.google.pl/":"Fetched https://www.google.pl/ as tmp/https___www.google.pl_","https://www.onet.pl/":"Fetched https://www.onet.pl/ as tmp/https___www.onet.pl_"}
 ```
 
+## 6-image
+
+Simple application that display images enqueued using POST method
+
+Add image
+```bash
+curl -X POST http://localhost:55555 -d 'https://mort.mkaciuba.com/liip/recent_gallery//media/gallery/14409/30/Rita-7730-Edit_55e15014-945c-11e9-876c-0242ac120002_gallery_big.jpeg' -i
+
+```
+
+Display
+
+```bash
+open http://localhost:55555 
+
+```
 
