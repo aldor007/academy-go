@@ -52,7 +52,6 @@ func main() { // define main function
 				links = append(links, url)
 				linksLock.Unlock()
 				fmt.Println("Adding", url, len(links))
-			default:
 
 
 			}
